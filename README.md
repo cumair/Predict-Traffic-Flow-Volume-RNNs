@@ -1,5 +1,5 @@
 # Predict Traffic Flow Volume Using Time Series Analysis
-# Neural Networks and Deep Learning
+## Neural Networks and Deep Learning
 
 One of the most common applications of Time Series models is to predict future values. The goal of this project is to apply deep learning to do time series forecasting. In particular, create deep learning models to predict future traffic volume at a location in Minnesota, between Minneapolis and St Paul.
 
